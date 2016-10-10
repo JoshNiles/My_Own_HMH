@@ -6,7 +6,7 @@ WinMain(HINSTANCE hInstance,
         LPSTR     lpCmdLine,
         int       nCmdShow)
 {
-    MessageBox(0, "This is my Handmade Hero", "Handmade Hero",
+    MessageBox(0, "This is my Handmade Hero test!", "Handmade Hero",
                MB_OK|MB_ICONINFORMATION);
 
     return(0);
